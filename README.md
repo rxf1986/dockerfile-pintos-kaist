@@ -1,6 +1,7 @@
 # dockerfile-pintos-kaist
-yhpark originally defined the Pintos dockerfile for CS330 at KAIST
-thinkhy did some modification to accomodate to UCB CS162
+
+  * yhpark originally defined the Pintos dockerfile for CS330 at KAIST
+  * thinkhy did some modification to accomodate to UCB CS162
 
 ### How to use
 
